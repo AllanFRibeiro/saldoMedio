@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "saldoMedio", "saldoMedio\saldoMedio.csproj", "{70289DC3-1163-4BA7-89E5-FDD8502CD4FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70289DC3-1163-4BA7-89E5-FDD8502CD4FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70289DC3-1163-4BA7-89E5-FDD8502CD4FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70289DC3-1163-4BA7-89E5-FDD8502CD4FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70289DC3-1163-4BA7-89E5-FDD8502CD4FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37EDC786-928A-402C-B9ED-8E75310DBF46}
+	EndGlobalSection
+EndGlobal

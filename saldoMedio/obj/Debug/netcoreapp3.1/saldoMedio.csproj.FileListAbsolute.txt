@@ -1,0 +1,13 @@
+C:\Imersao_Logica\saldoMedio\saldoMedio\bin\Debug\netcoreapp3.1\saldoMedio.exe
+C:\Imersao_Logica\saldoMedio\saldoMedio\bin\Debug\netcoreapp3.1\saldoMedio.deps.json
+C:\Imersao_Logica\saldoMedio\saldoMedio\bin\Debug\netcoreapp3.1\saldoMedio.runtimeconfig.json
+C:\Imersao_Logica\saldoMedio\saldoMedio\bin\Debug\netcoreapp3.1\saldoMedio.runtimeconfig.dev.json
+C:\Imersao_Logica\saldoMedio\saldoMedio\bin\Debug\netcoreapp3.1\saldoMedio.dll
+C:\Imersao_Logica\saldoMedio\saldoMedio\bin\Debug\netcoreapp3.1\saldoMedio.pdb
+C:\Imersao_Logica\saldoMedio\saldoMedio\obj\Debug\netcoreapp3.1\saldoMedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Imersao_Logica\saldoMedio\saldoMedio\obj\Debug\netcoreapp3.1\saldoMedio.AssemblyInfoInputs.cache
+C:\Imersao_Logica\saldoMedio\saldoMedio\obj\Debug\netcoreapp3.1\saldoMedio.AssemblyInfo.cs
+C:\Imersao_Logica\saldoMedio\saldoMedio\obj\Debug\netcoreapp3.1\saldoMedio.csproj.CoreCompileInputs.cache
+C:\Imersao_Logica\saldoMedio\saldoMedio\obj\Debug\netcoreapp3.1\saldoMedio.dll
+C:\Imersao_Logica\saldoMedio\saldoMedio\obj\Debug\netcoreapp3.1\saldoMedio.pdb
+C:\Imersao_Logica\saldoMedio\saldoMedio\obj\Debug\netcoreapp3.1\saldoMedio.genruntimeconfig.cache
